@@ -11,4 +11,10 @@ sudo dnf install zstd
 curl -fsSL  https://ollama.com/install.sh | sh
 
 
+ollama --version 
+
+
+
+ollama run llama3
+
 
